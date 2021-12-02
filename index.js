@@ -52,6 +52,21 @@ var questions = [
   `,
     answer: "b",
   },
+  {
+    question: `Where is the correct place to insert a JavaScript?
+  a)the <head> section
+  b)the <body> section
+  c)both <head> and <body> section is correct`,
+    answer: "c",
+  },
+  {
+    question: `What is the correct syntax for referring to an external script called ""?
+  a)<script href ='xxx.js>'
+  b)<script src ='xxx.js>'
+  c)<script name ='xxx.js>'
+  `,
+    answer: "b",
+  },
 ];
 
 // play function
